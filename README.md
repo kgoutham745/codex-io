@@ -5,15 +5,15 @@ Welcome to the CodexIO Online Compiler repository! This repository contains the 
 
 ## Features:
 
--Multiple Programming Languages: CodexIO supports a wide range of programming languages, including but not limited to C++, Java, Python, JavaScript, and more.
+-**Multiple Programming Languages**: CodexIO supports a wide range of programming languages, including but not limited to C++, Java, Python, JavaScript, and more.
 
--Real-time Code Execution: Users can write their code in the browser and see the results instantly, without having to install any additional software or IDE.
+-**Real-time Code Execution**: Users can write their code in the browser and see the results instantly, without having to install any additional software or IDE.
 
--Syntax Highlighting: The code editor in CodexIO provides syntax highlighting, making it easier to read and write code.
+-**Syntax Highlighting**: The code editor in CodexIO provides syntax highlighting, making it easier to read and write code.
 
--Error Handling: The compiler displays error messages if there are any syntax or runtime errors in the code, helping users identify and fix issues quickly.
+-**Error Handling**: The compiler displays error messages if there are any syntax or runtime errors in the code, helping users identify and fix issues quickly.
 
--Shareable Links: Users can easily share their code and its output by copying the URL from the address bar.
+-**Shareable Links**: Users can easily share their code and its output by copying the URL from the address bar.
 
 
 ## Usage:
