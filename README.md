@@ -1,9 +1,9 @@
-CodexIO Online Compiler:
+# CodexIO Online Compiler:
 
 Welcome to the CodexIO Online Compiler repository! This repository contains the code for a web-based compiler using the GeeksforGeeks (GFG) API. With CodexIO, users can write and run code in various programming languages directly from their web browsers.
 
 
-Features:
+## Features:
 
 -Multiple Programming Languages: CodexIO supports a wide range of programming languages, including but not limited to C++, Java, Python, JavaScript, and more.
 
@@ -16,12 +16,13 @@ Features:
 -Shareable Links: Users can easily share their code and its output by copying the URL from the address bar.
 
 
-Usage:
+## Usage:
 To use CodexIO, follow these steps
 
 -Clone the repository to your local machine using the following command: 
-
+```
 git clone https://github.com/kgoutham745/codex-io.git
+```
 
 -Open the index.html file in your preferred web browser.
 
@@ -36,7 +37,7 @@ git clone https://github.com/kgoutham745/codex-io.git
 -If there are any errors, they will be displayed in the "Output" section.
 
 
-Dependencies:
+## Dependencies:
 The following dependencies are used in this project
 
 -GeeksforGeeks API
@@ -44,7 +45,7 @@ The following dependencies are used in this project
 -Bootstrap
 
 
-Contribution:
+## Contribution:
 Contributions to the CodexIO Online Compiler repository are welcome! If you want to contribute, please follow these steps:
 
 -Fork the repository.
@@ -58,7 +59,7 @@ Contributions to the CodexIO Online Compiler repository are welcome! If you want
 -Submit a pull request explaining the changes you have made.
 
 
-Contact:
+## Contact:
 
 If you have any questions, suggestions, or feedback, feel free to reach out to me kgoutham745@gmail.com
 
